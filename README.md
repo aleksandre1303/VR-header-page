@@ -13,8 +13,8 @@ Figma file: https://www.figma.com/file/eouuwylw8rdtcpguGfTauX/Hero-Header-004---
 
 ### Links
 
-- Solution URL:  https://github.com/aleksandre1303/testimonial-grid-section 
-- Live Site URL: https://aleksandre1303.github.io/testimonial-grid-section/
+- Solution URL:  https://github.com/aleksandre1303/VR-header-page
+- Live Site URL: https://aleksandre1303.github.io/VR-header-page/
 
 
 ## Author
